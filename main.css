@@ -9,8 +9,7 @@ body {
 .title {
   color: white;
   background-color: rgb(15, 15, 15);
-  border: 3px solid white;
-  border-radius: 30px;
+  margin-top: 20px;
 }
 .subtitle {
   color: rgb(210, 210, 210);

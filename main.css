@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+body {
+  background-color: rgb(35, 35, 35); 
+  text-align: center;
+  font-family: "Inter";
+}
+.title {
+  color: white;
+  background-color: rgb(15, 15, 15);
+  border: 3px solid white;
+  border-radius: 30px;
+}
+.subtitle {
+  color: rgb(210, 210, 210);
+  font-size: 12px;
+}
+.switcher {
+  color: rgb(230, 230, 230);
+  font-size: 16px;
+}
